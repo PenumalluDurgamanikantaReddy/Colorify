@@ -1,0 +1,12 @@
+.outputtem {
+    margin-top: 1rem;
+    width: 8rem;
+    height: 10rem;
+    border-radius: 5px;
+    border: 2px solid;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    display: flex;
+    font-size:xx-large;
+  }

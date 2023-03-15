@@ -1,0 +1,7 @@
+.palatttes {
+  padding: auto;
+  display: flex;
+  flex-direction: row;
+  gap: 5em;
+}
+ 

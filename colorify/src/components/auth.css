@@ -1,0 +1,36 @@
+.form{
+
+margin: 5rem;
+padding: 5rem;
+display: flex;
+flex-direction: column;
+align-items: center;
+gap: 1rem;
+background-color: cornflowerblue;
+border-radius: 3px;
+max-width: 30rem;
+left: 42rem;
+position: absolute;
+}
+
+.form input{
+    
+   width: 18rem;
+    height: 2rem;
+}
+
+.form button{
+
+   width: 8rem;
+   height: 2.5rem; 
+   background-color: darkorchid;
+   color: white;
+   border: 0ch;
+   font-size: large;
+   border-radius: 4px;
+}
+
+.existing{
+   max-width: 10rem;
+    width: 15rem;
+}
